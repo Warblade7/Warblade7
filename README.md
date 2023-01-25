@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Warblade7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Warblade7&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-![IMG_7403-PL Dowód osobisty (format cyfrowy)-492x633 px](https://user-images.githubusercontent.com/51704221/214466891-204ac87b-0fea-4a22-a884-cd550301f329.jpg)
-
+![104189352_968390720248592_3720341428808198701_n](https://user-images.githubusercontent.com/51704221/214466969-cc89ec54-10b7-4307-81b1-0e81006cc2b8.jpg)
+![ceo](https://user-images.githubusercontent.com/51704221/214466971-ed3fd172-87c5-4796-9841-86c59f6e25de.png)
+![rodo2](https://user-images.githubusercontent.com/51704221/214466973-2ee379f8-c08d-4d28-b89c-b2e249e645f1.png)
+![wqopiefiufeuib](https://user-images.githubusercontent.com/51704221/214466977-2eb28ebf-d190-4743-8e97-a781ad3b88cf.png)
