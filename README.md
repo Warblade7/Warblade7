@@ -16,7 +16,4 @@ Here are some ideas to get you started:
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Warblade7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Warblade7&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-![104189352_968390720248592_3720341428808198701_n](https://user-images.githubusercontent.com/51704221/214466969-cc89ec54-10b7-4307-81b1-0e81006cc2b8.jpg)
-![ceo](https://user-images.githubusercontent.com/51704221/214466971-ed3fd172-87c5-4796-9841-86c59f6e25de.png)
-![rodo2](https://user-images.githubusercontent.com/51704221/214466973-2ee379f8-c08d-4d28-b89c-b2e249e645f1.png)
-![wqopiefiufeuib](https://user-images.githubusercontent.com/51704221/214466977-2eb28ebf-d190-4743-8e97-a781ad3b88cf.png)
+![147336840_4213000228729126_5565177848746041559_n](https://user-images.githubusercontent.com/51704221/214467105-05a1ea60-05bb-4023-83ef-d1eeac1508a2.jpg)
